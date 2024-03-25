@@ -1,4 +1,4 @@
-# Solace PubSub+ Software Event Broker JNDI Terraform Module
+# Solace PubSub+ Appliance JNDI Terraform Module
 
 Terraform module to configure a [connection factory object](https://docs.solace.com/API/Solace-JMS-API/Connection-Factories.htm) in the JNDI store of a [Solace PubSub+ Event Broker](https://solace.com/products/event-broker/). 
 
@@ -26,7 +26,7 @@ Additional optional module variables names are the same as the underlying connec
 
 | Resource name |
 |---------------|
-|[solacebroker_msg_vpn_jndi_connection_factory](https://registry.terraform.io/providers/SolaceProducts/solacebroker/latest/docs/resources/msg_vpn_jndi_connection_factory#optional)|
+|[solacebroker_msg_vpn_jndi_connection_factory](https://registry.terraform.io/providers/solaceproducts/solacebrokerappliance/latest/docs/resources/msg_vpn_jndi_connection_factory#optional)|
 
 Most optional variables' default value is `null`, meaning that if not provided then the resource default value will be provisioned on the broker.
 
@@ -42,7 +42,7 @@ Outputs:
 
 | Name | Version |
 |------|---------|
-| <a name="provider_solacebroker"></a> [solacebroker](https://registry.terraform.io/providers/SolaceProducts/solacebroker/latest) | ~> 0.9 |
+| <a name="provider_solacebroker"></a> [solacebroker](https://registry.terraform.io/providers/solaceproducts/solacebrokerappliance/latest) | ~> 0.9 |
 
 ## Resources
 
