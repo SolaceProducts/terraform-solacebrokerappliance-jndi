@@ -1,6 +1,6 @@
 # Connection Factory with Local Transactions Support Example
 
-Configuration in this directory creates a [connection factory](https://docs.solace.com/API/Solace-JMS-API/Connection-Factories.htm) object in the JNDI store on the PubSub+ event broker, with local transactions support.
+Configuration in this directory creates a [connection factory](https://docs.solace.com/API/Solace-JMS-API/Connection-Factories.htm) object in the JNDI store on the PubSub+ appliance, with local transactions support.
 
 ## Module Configuration in the Example
 
@@ -29,7 +29,7 @@ This example will create the following resources:
 
 ## Running the Example
 
-### Access to a PubSub+ Event Broker
+### Access to a PubSub+ Appliance
 
 If you don't already have access to a broker, see the [Developers page](https://www.solace.dev/) for options to get started.
 

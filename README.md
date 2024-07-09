@@ -1,6 +1,6 @@
 # Solace PubSub+ Appliance JNDI Terraform Module
 
-This Terraform module configures a [connection factory object](https://docs.solace.com/API/Solace-JMS-API/Connection-Factories.htm) in the JNDI store of a [Solace PubSub+ Event Broker](https://solace.com/products/event-broker/). 
+This Terraform module configures a [connection factory object](https://docs.solace.com/API/Solace-JMS-API/Connection-Factories.htm) in the JNDI store of a [Solace PubSub+ Appliance](https://solace.com/products/event-broker/). 
 
 Use case details are provided in the [Examples](#examples) section.
 
