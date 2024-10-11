@@ -20,6 +20,11 @@ jobs:
         with:
           go-version: "1.22"
 
+      - name: Set up Terraform latest
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_wrapper: false
+
       - name: Checkout generator
         uses: actions/checkout@v4
         with:
