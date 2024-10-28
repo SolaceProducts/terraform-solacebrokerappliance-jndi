@@ -42,7 +42,7 @@ Outputs:
 
 | Name | Version |
 |------|---------|
-| <a name="provider_solacebrokerappliance"></a> [solacebrokerappliance](https://registry.terraform.io/providers/SolaceProducts/solacebrokerappliance/latest) | ~> 1.0 |
+| <a name="provider_solacebrokerappliance"></a> [solacebrokerappliance](https://registry.terraform.io/providers/SolaceProducts/solacebrokerappliance/latest) | ~> 1.1 |
 
 ## Resources
 
